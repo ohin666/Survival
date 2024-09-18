@@ -1,0 +1,13 @@
+name: Surv
+title: Surv
+username:
+account: ohin6
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6878345
+bundleId: 6259377
+url: https://ohin6.shinyapps.io/Surv/
+when: 1662041243.28694
+lastSyncTime: 1662041243.28695
+asMultiple: FALSE
+asStatic: FALSE
